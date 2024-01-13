@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Hello, my name is Vladimir Stoychev and I am currently actively studying the C# programming language.
+I am a student at SoftUni software university.
+
 <!--
 **vkstoychev/vkstoychev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
