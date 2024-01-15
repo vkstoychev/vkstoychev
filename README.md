@@ -1,3 +1,5 @@
+![MasterHead](https://th.bing.com/th/id/OIP.6JRfQQXWqMWYBBvGNNGzsAAAAA?rs=1&pid=ImgDetMain)
+
 ### Hi there 👋
 
 Hello, my name is Vladimir Stoychev and I am currently actively studying the C# programming language.
